@@ -16,7 +16,7 @@ int main(void)
 	for (ch = 'A'; ch <= 'Z'; ch++) /* print uppercase letters */
        	{
        	putchar(ch);
-	putchar('\n');
 	}
+	putchar('\n');
 	return (0);
 }
