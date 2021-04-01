@@ -1,7 +1,7 @@
 #include "holberton.h"
 
 /**
- * main - Print the word print alphabet in lower case
+ * print_alphabet - Print the word print alphabet in lower case
  * Return: Always 0 (Success)
  */
 
@@ -15,5 +15,4 @@ void print_alphabet(void)
 		alpha++;
 	}
 	_putchar('\n');
-	return;
 }
