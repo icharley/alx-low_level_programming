@@ -23,6 +23,4 @@ int print_last_digit(int x)
 		return (y);
 	}
 
-	return (0);
-
 }
